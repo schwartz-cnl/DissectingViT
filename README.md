@@ -1,7 +1,7 @@
 # DissectingViT
 This is the official code repository for the paper "Dissecting Query-Key Interaction in Vision Transformers" [[link](https://arxiv.org/abs/2405.14880)] by Xu Pan, Aaron Philip, Ziqian Xie, Odelia Schwartz.
 
-Set up the path in "config.py" before running.
+0. Set up the path in "config.py" before running.
 
 1. "cosine_similarity.ipynb" is for (1) saving SVD of the query-key interaction matrix. (2) plot the averaged cosine similarity between U and V. (3) plotting the singular spectrum.
 
