@@ -1,5 +1,5 @@
 # DissectingViT
-official code repository for the paper "Dissecting Query-Key Interaction in Vision Transformers" by Xu Pan, Aaron Philip, Ziqian Xie, Odelia Schwartz [[link](https://arxiv.org/abs/2405.14880)]
+This is the official code repository for the paper "Dissecting Query-Key Interaction in Vision Transformers" [[link](https://arxiv.org/abs/2405.14880)] by Xu Pan, Aaron Philip, Ziqian Xie, Odelia Schwartz.
 
 Set up the path in "config.py" before running.
 
